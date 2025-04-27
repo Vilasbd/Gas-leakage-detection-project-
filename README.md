@@ -95,7 +95,7 @@ Safety is ensured even if no one is present at home.
 
 📸 Project Images
 
-![image alt]()
+![image alt](https://github.com/Vilasbd/Gas-leakage-detection-project-/blob/5e89e78153fd0402fa26ec980688686541d1fd49/Picture2.jpg)
 
 🚀 Future Implementations
 📱 GSM Module Integration: SMS alerts for leakage detection.
