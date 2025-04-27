@@ -78,7 +78,7 @@ Users are immediately alerted to take manual action.
 
 📸 Project Images
 
-![image alt]()
+![image alt](https://github.com/Vilasbd/Gas-leakage-detection-project-/blob/a3fe398d6dc00bff25c3b5c2e019f066d88c9fef/Picture1.jpg)
 
 2. Automatic Gas Supply Cut-off Device
 Setup: Connected inline with the gas cylinder supply line.
