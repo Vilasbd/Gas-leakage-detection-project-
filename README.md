@@ -72,6 +72,8 @@ Working:
 
 MQ-2 continuously senses gas concentrations.
 
+The system is powered by a built-in rechargeable or replaceable battery, ensuring portability without dependence on external power sources.
+
 When gas levels exceed the threshold, Arduino triggers a buzzer alarm.
 
 Users are immediately alerted to take manual action.
