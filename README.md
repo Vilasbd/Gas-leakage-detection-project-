@@ -6,7 +6,7 @@ The project consists of two devices aimed at improving kitchen and household saf
 
 📸 Project Images
 
-![image alt]()
+![image alt](https://github.com/Vilasbd/Gas-leakage-detection-project-/blob/020af5dbe7271a4b4d05353a94e742341e0a2762/Picture3.jpg)
 
 ❗ Problem Statement
 Gas cylinders are widely used for cooking and industrial purposes.
